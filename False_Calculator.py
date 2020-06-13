@@ -1,3 +1,4 @@
+# I have created a false calculator which will also show some wrong answers to prank people
 # I have created a function to manage the calculations
 def falseCal():
     print("Select Your operator from (*, /, +, -)\n")
